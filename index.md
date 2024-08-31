@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Rishab Chakravarty First CS193 Homework
 - I love how interactive the class is
 - I love how energetic the two teachers are in class
+
 ### Markdown
 
 
