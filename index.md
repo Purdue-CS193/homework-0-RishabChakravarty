@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - I love how interactive the class is
-- I love how energetic the two teachers are 
+- I love how energetic the two teachers are in class
 
 1. Numbered
 2. List
